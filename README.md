@@ -1,2 +1,2 @@
-# Action Cam Video Companion
-See https://www.actioncamvideocompanion.com
+# Media Sidekick
+See https://www.mediasidekick.org
